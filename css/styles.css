@@ -1,0 +1,48 @@
+body {
+  font-size: 16px;
+  font-family: 'Comic Sans MS', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+
+#nav-list{
+	text-align: center;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { 
+  font-family: 'Comic Sans MS', serif;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#body{
+	background: grey;
+
+
+}
+h1.text-center{
+	margin-bottom: 50px;
+}
+#row{
+	margin: 0 40px 0 40px;
+}
+
+h1.text-center{
+	font-size: 50px;
+}
